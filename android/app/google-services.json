@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "114765631892",
+    "project_id": "tapproject-a9fd8",
+    "storage_bucket": "tapproject-a9fd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114765631892:android:f639b5837571f8728a3f81",
+        "android_client_info": {
+          "package_name": "com.sherif_raafat.tap_assignment_sherif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114765631892-hg13veiivb1nf3c8i53mftm9gbjisrf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIFWXCqHfPYw9w0UEEGORXwKe7_zFvo2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114765631892-hg13veiivb1nf3c8i53mftm9gbjisrf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
